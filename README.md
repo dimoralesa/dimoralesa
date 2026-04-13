@@ -48,7 +48,7 @@ To become a strong tech professional by combining software development and data 
 
 - 📧 Email: diegophelipe18@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/diego-phelipe-morales-aldana-6514ba26b/
-- 💻 GitHub: [(your GitHub here)](https://github.com/dimoralesa)
+- 💻 GitHub: https://github.com/dimoralesa
 
 ---
 
